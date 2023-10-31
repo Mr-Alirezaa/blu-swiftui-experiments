@@ -21,25 +21,21 @@ struct ContentView: View {
 
     var body: some View {
         VStack {
-            AppTitleView()
+            HStack {
+                Text("A great and warm welcome to Kuchi")
+                    .background(Color.red)
 
-            TextField("Username", text: $username)
-                .focused($field, equals: .username)
-                .textFieldStyle(.blu)
-                .padding()
+                Text("A great and warm welcome to Kuchi")
+                    .background(Color.red)
+            }
+            .background(Color.yellow)
 
-            TextField("Password", text: $password)
-                .focused($field, equals: .password)
-                .textFieldStyle(.blu)
-                .padding()
-        }
-        .foregroundStyle(.blue)
-        .font(.title)
-        .onAppear(perform: {
-            self.field = .username
-        })
-        .onChange(of: field) { newValue in
-            print("Focused: \(String(describing: newValue))")
+//            Text("A great and warm welcome to Kuchi")
+//                .frame(width: 393.0 / 2, alignment: .center)
+//
+//            Text("A great and warn welcome to Kuchi")
+//                .frame(width: 393.0 / 2, alignment: .center)
+
         }
     }
 }
