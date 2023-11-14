@@ -7,11 +7,30 @@
     ", World!" : {
 
     },
+    "+1" : {
+
+    },
     "A great and warm welcome to Kuchi" : {
+
+    },
+    "Agreement Agreement Agreement Agreement Agreement Agreement Agreement Agreement Agreement " : {
 
     },
     "Alireza" : {
 
+    },
+    "Name" : {
+
+    },
+    "Name: %@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name: %1$@, %2$@"
+          }
+        }
+      }
     },
     "Placeholder" : {
 
@@ -21,6 +40,19 @@
     },
     "Toggle" : {
 
+    },
+    "X: %lld" : {
+
+    },
+    "X: %lld, Y: %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "X: %1$lld, Y: %2$lld"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
