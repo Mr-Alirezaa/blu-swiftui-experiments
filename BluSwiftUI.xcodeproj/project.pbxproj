@@ -15,6 +15,7 @@
 		EE5DDCDD2AD6B61E00D56537 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5DDCDC2AD6B61E00D56537 /* ContentView.swift */; };
 		EE5DDCDF2AD6B62000D56537 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE5DDCDE2AD6B62000D56537 /* Assets.xcassets */; };
 		EE5DDCE22AD6B62000D56537 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE5DDCE12AD6B62000D56537 /* Preview Assets.xcassets */; };
+		EE9A4A172B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9A4A162B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		EE5DDCDC2AD6B61E00D56537 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EE5DDCDE2AD6B62000D56537 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE5DDCE12AD6B62000D56537 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EE9A4A162B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "StateObject-ObservedObject-EnvironmentObject Session.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				EE3F49E22B03C7A80099357A /* AngheziView.swift */,
 				EE1BC2F42AF1621500A8E238 /* NavigationShape.swift */,
 				EE0D6A9E2ADE5F3B00E85135 /* CustomTextField.swift */,
+				EE9A4A162B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift */,
 				EE5DDCDE2AD6B62000D56537 /* Assets.xcassets */,
 				EE5DDCE02AD6B62000D56537 /* Preview Content */,
 				EE1BC2E42AEE493400A8E238 /* Localizable.xcstrings */,
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE9A4A172B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift in Sources */,
 				EE5DDCDD2AD6B61E00D56537 /* ContentView.swift in Sources */,
 				EE3F49E32B03C7A80099357A /* AngheziView.swift in Sources */,
 				EE1BC2F52AF1621500A8E238 /* NavigationShape.swift in Sources */,
