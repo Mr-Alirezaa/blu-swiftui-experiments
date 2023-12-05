@@ -10,6 +10,7 @@
 		EE0D6A9F2ADE5F3B00E85135 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0D6A9E2ADE5F3B00E85135 /* CustomTextField.swift */; };
 		EE1BC2E52AEE493400A8E238 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = EE1BC2E42AEE493400A8E238 /* Localizable.xcstrings */; };
 		EE1BC2F52AF1621500A8E238 /* NavigationShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1BC2F42AF1621500A8E238 /* NavigationShape.swift */; };
+		EE23B5292B1F0FEE00288CAE /* IterationThroughDataSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE23B5282B1F0FEE00288CAE /* IterationThroughDataSessionView.swift */; };
 		EE3F49E32B03C7A80099357A /* AngheziView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3F49E22B03C7A80099357A /* AngheziView.swift */; };
 		EE5DDCDB2AD6B61E00D56537 /* BluSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5DDCDA2AD6B61E00D56537 /* BluSwiftUIApp.swift */; };
 		EE5DDCDD2AD6B61E00D56537 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5DDCDC2AD6B61E00D56537 /* ContentView.swift */; };
@@ -23,6 +24,7 @@
 		EE0D6A9E2ADE5F3B00E85135 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		EE1BC2E42AEE493400A8E238 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		EE1BC2F42AF1621500A8E238 /* NavigationShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationShape.swift; sourceTree = "<group>"; };
+		EE23B5282B1F0FEE00288CAE /* IterationThroughDataSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IterationThroughDataSessionView.swift; sourceTree = "<group>"; };
 		EE3F49E22B03C7A80099357A /* AngheziView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngheziView.swift; sourceTree = "<group>"; };
 		EE5DDCD72AD6B61E00D56537 /* BluSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BluSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE5DDCDA2AD6B61E00D56537 /* BluSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluSwiftUIApp.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				EE5DDCDA2AD6B61E00D56537 /* BluSwiftUIApp.swift */,
+				EE23B5282B1F0FEE00288CAE /* IterationThroughDataSessionView.swift */,
 				EE5DDCDC2AD6B61E00D56537 /* ContentView.swift */,
 				EE3F49E22B03C7A80099357A /* AngheziView.swift */,
 				EE1BC2F42AF1621500A8E238 /* NavigationShape.swift */,
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE9A4A172B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift in Sources */,
+				EE23B5292B1F0FEE00288CAE /* IterationThroughDataSessionView.swift in Sources */,
 				EE86B5532B15D40B00E68E19 /* NavigationSessionView.swift in Sources */,
 				EE5DDCDD2AD6B61E00D56537 /* ContentView.swift in Sources */,
 				EE3F49E32B03C7A80099357A /* AngheziView.swift in Sources */,
