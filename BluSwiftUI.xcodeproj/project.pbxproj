@@ -18,6 +18,7 @@
 		EE5DDCE22AD6B62000D56537 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE5DDCE12AD6B62000D56537 /* Preview Assets.xcassets */; };
 		EE86B5532B15D40B00E68E19 /* NavigationSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE86B5522B15D40B00E68E19 /* NavigationSessionView.swift */; };
 		EE9A4A172B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9A4A162B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift */; };
+		EEEAD0B82B28477600D3551B /* GesturesSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEEAD0B72B28477600D3551B /* GesturesSessionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		EE5DDCE12AD6B62000D56537 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EE86B5522B15D40B00E68E19 /* NavigationSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSessionView.swift; sourceTree = "<group>"; };
 		EE9A4A162B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "StateObject-ObservedObject-EnvironmentObject Session.swift"; sourceTree = "<group>"; };
+		EEEAD0B72B28477600D3551B /* GesturesSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesSessionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				EE0D6A9E2ADE5F3B00E85135 /* CustomTextField.swift */,
 				EE9A4A162B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift */,
 				EE86B5522B15D40B00E68E19 /* NavigationSessionView.swift */,
+				EEEAD0B72B28477600D3551B /* GesturesSessionView.swift */,
 				EE5DDCDE2AD6B62000D56537 /* Assets.xcassets */,
 				EE5DDCE02AD6B62000D56537 /* Preview Content */,
 				EE1BC2E42AEE493400A8E238 /* Localizable.xcstrings */,
@@ -159,6 +162,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEEAD0B82B28477600D3551B /* GesturesSessionView.swift in Sources */,
 				EE9A4A172B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift in Sources */,
 				EE23B5292B1F0FEE00288CAE /* IterationThroughDataSessionView.swift in Sources */,
 				EE86B5532B15D40B00E68E19 /* NavigationSessionView.swift in Sources */,
