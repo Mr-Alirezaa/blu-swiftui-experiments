@@ -100,7 +100,7 @@ struct ExpandableWithGestureView: View {
                         translation = .zero
                         isExpanded = true
                     }
-                } else if value.predictedEndTranslation.height < 0{
+                } else if value.predictedEndTranslation.height < 0 {
                     withAnimation(.spring) {
                         translation = .zero
                         isExpanded = false

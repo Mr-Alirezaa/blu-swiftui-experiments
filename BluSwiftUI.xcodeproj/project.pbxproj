@@ -10,6 +10,16 @@
 		EE0D6A9F2ADE5F3B00E85135 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0D6A9E2ADE5F3B00E85135 /* CustomTextField.swift */; };
 		EE1BC2E52AEE493400A8E238 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = EE1BC2E42AEE493400A8E238 /* Localizable.xcstrings */; };
 		EE1BC2F52AF1621500A8E238 /* NavigationShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1BC2F42AF1621500A8E238 /* NavigationShape.swift */; };
+		EE1CCCB12B4416BB002212A2 /* SimpleAnimatableModifire.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCA72B4416BB002212A2 /* SimpleAnimatableModifire.swift */; };
+		EE1CCCB22B4416BB002212A2 /* Default.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCA82B4416BB002212A2 /* Default.swift */; };
+		EE1CCCB32B4416BB002212A2 /* MachedGeometryEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCA92B4416BB002212A2 /* MachedGeometryEffect.swift */; };
+		EE1CCCB42B4416BB002212A2 /* TransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCAA2B4416BB002212A2 /* TransitionAnimation.swift */; };
+		EE1CCCB52B4416BB002212A2 /* CommonMistakeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCAB2B4416BB002212A2 /* CommonMistakeView.swift */; };
+		EE1CCCB62B4416BB002212A2 /* CustomAnimatableModifires.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCAC2B4416BB002212A2 /* CustomAnimatableModifires.swift */; };
+		EE1CCCB72B4416BB002212A2 /* ComplexTransitionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCAD2B4416BB002212A2 /* ComplexTransitionAnimation.swift */; };
+		EE1CCCB82B4416BB002212A2 /* ComplexTimelineview.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCAE2B4416BB002212A2 /* ComplexTimelineview.swift */; };
+		EE1CCCB92B4416BB002212A2 /* TimelineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCAF2B4416BB002212A2 /* TimelineView.swift */; };
+		EE1CCCBA2B4416BB002212A2 /* SequentialAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1CCCB02B4416BB002212A2 /* SequentialAnimation.swift */; };
 		EE23B5292B1F0FEE00288CAE /* IterationThroughDataSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE23B5282B1F0FEE00288CAE /* IterationThroughDataSessionView.swift */; };
 		EE3F49E32B03C7A80099357A /* AngheziView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3F49E22B03C7A80099357A /* AngheziView.swift */; };
 		EE5DDCDB2AD6B61E00D56537 /* BluSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5DDCDA2AD6B61E00D56537 /* BluSwiftUIApp.swift */; };
@@ -25,6 +35,16 @@
 		EE0D6A9E2ADE5F3B00E85135 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		EE1BC2E42AEE493400A8E238 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		EE1BC2F42AF1621500A8E238 /* NavigationShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationShape.swift; sourceTree = "<group>"; };
+		EE1CCCA72B4416BB002212A2 /* SimpleAnimatableModifire.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimpleAnimatableModifire.swift; sourceTree = "<group>"; };
+		EE1CCCA82B4416BB002212A2 /* Default.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Default.swift; sourceTree = "<group>"; };
+		EE1CCCA92B4416BB002212A2 /* MachedGeometryEffect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MachedGeometryEffect.swift; sourceTree = "<group>"; };
+		EE1CCCAA2B4416BB002212A2 /* TransitionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransitionAnimation.swift; sourceTree = "<group>"; };
+		EE1CCCAB2B4416BB002212A2 /* CommonMistakeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommonMistakeView.swift; sourceTree = "<group>"; };
+		EE1CCCAC2B4416BB002212A2 /* CustomAnimatableModifires.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomAnimatableModifires.swift; sourceTree = "<group>"; };
+		EE1CCCAD2B4416BB002212A2 /* ComplexTransitionAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComplexTransitionAnimation.swift; sourceTree = "<group>"; };
+		EE1CCCAE2B4416BB002212A2 /* ComplexTimelineview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComplexTimelineview.swift; sourceTree = "<group>"; };
+		EE1CCCAF2B4416BB002212A2 /* TimelineView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineView.swift; sourceTree = "<group>"; };
+		EE1CCCB02B4416BB002212A2 /* SequentialAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SequentialAnimation.swift; sourceTree = "<group>"; };
 		EE23B5282B1F0FEE00288CAE /* IterationThroughDataSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IterationThroughDataSessionView.swift; sourceTree = "<group>"; };
 		EE3F49E22B03C7A80099357A /* AngheziView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngheziView.swift; sourceTree = "<group>"; };
 		EE5DDCD72AD6B61E00D56537 /* BluSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BluSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -48,6 +68,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EE1CCCA62B4416BB002212A2 /* AnimationsSession */ = {
+			isa = PBXGroup;
+			children = (
+				EE1CCCA72B4416BB002212A2 /* SimpleAnimatableModifire.swift */,
+				EE1CCCA82B4416BB002212A2 /* Default.swift */,
+				EE1CCCA92B4416BB002212A2 /* MachedGeometryEffect.swift */,
+				EE1CCCAA2B4416BB002212A2 /* TransitionAnimation.swift */,
+				EE1CCCAB2B4416BB002212A2 /* CommonMistakeView.swift */,
+				EE1CCCAC2B4416BB002212A2 /* CustomAnimatableModifires.swift */,
+				EE1CCCAD2B4416BB002212A2 /* ComplexTransitionAnimation.swift */,
+				EE1CCCAE2B4416BB002212A2 /* ComplexTimelineview.swift */,
+				EE1CCCAF2B4416BB002212A2 /* TimelineView.swift */,
+				EE1CCCB02B4416BB002212A2 /* SequentialAnimation.swift */,
+			);
+			path = AnimationsSession;
+			sourceTree = "<group>";
+		};
 		EE5DDCCE2AD6B61E00D56537 = {
 			isa = PBXGroup;
 			children = (
@@ -76,6 +113,7 @@
 				EE9A4A162B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift */,
 				EE86B5522B15D40B00E68E19 /* NavigationSessionView.swift */,
 				EEEAD0B72B28477600D3551B /* GesturesSessionView.swift */,
+				EE1CCCA62B4416BB002212A2 /* AnimationsSession */,
 				EE5DDCDE2AD6B62000D56537 /* Assets.xcassets */,
 				EE5DDCE02AD6B62000D56537 /* Preview Content */,
 				EE1BC2E42AEE493400A8E238 /* Localizable.xcstrings */,
@@ -163,14 +201,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				EEEAD0B82B28477600D3551B /* GesturesSessionView.swift in Sources */,
+				EE1CCCB22B4416BB002212A2 /* Default.swift in Sources */,
 				EE9A4A172B0C9B3C00F0A016 /* StateObject-ObservedObject-EnvironmentObject Session.swift in Sources */,
+				EE1CCCBA2B4416BB002212A2 /* SequentialAnimation.swift in Sources */,
 				EE23B5292B1F0FEE00288CAE /* IterationThroughDataSessionView.swift in Sources */,
 				EE86B5532B15D40B00E68E19 /* NavigationSessionView.swift in Sources */,
+				EE1CCCB62B4416BB002212A2 /* CustomAnimatableModifires.swift in Sources */,
+				EE1CCCB42B4416BB002212A2 /* TransitionAnimation.swift in Sources */,
 				EE5DDCDD2AD6B61E00D56537 /* ContentView.swift in Sources */,
 				EE3F49E32B03C7A80099357A /* AngheziView.swift in Sources */,
 				EE1BC2F52AF1621500A8E238 /* NavigationShape.swift in Sources */,
 				EE5DDCDB2AD6B61E00D56537 /* BluSwiftUIApp.swift in Sources */,
+				EE1CCCB82B4416BB002212A2 /* ComplexTimelineview.swift in Sources */,
+				EE1CCCB92B4416BB002212A2 /* TimelineView.swift in Sources */,
+				EE1CCCB12B4416BB002212A2 /* SimpleAnimatableModifire.swift in Sources */,
+				EE1CCCB72B4416BB002212A2 /* ComplexTransitionAnimation.swift in Sources */,
+				EE1CCCB32B4416BB002212A2 /* MachedGeometryEffect.swift in Sources */,
 				EE0D6A9F2ADE5F3B00E85135 /* CustomTextField.swift in Sources */,
+				EE1CCCB52B4416BB002212A2 /* CommonMistakeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

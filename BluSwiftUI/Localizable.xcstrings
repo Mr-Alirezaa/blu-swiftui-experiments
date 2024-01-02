@@ -7,16 +7,64 @@
     ", World!" : {
 
     },
+    "%@" : {
+
+    },
     "+1" : {
 
     },
+    "+10" : {
+
+    },
     "A great and warm welcome to Kuchi" : {
+
+    },
+    "Again" : {
+
+    },
+    "Age: %lld" : {
+
+    },
+    "Agha Reza" : {
 
     },
     "Agreement Agreement Agreement Agreement Agreement Agreement Agreement Agreement Agreement " : {
 
     },
     "Alireza" : {
+
+    },
+    "Also get avocados" : {
+
+    },
+    "Animate" : {
+
+    },
+    "Back" : {
+
+    },
+    "Buy Justin a gift for his 6th birthday" : {
+
+    },
+    "Color: %@" : {
+
+    },
+    "Comp: %lld" : {
+
+    },
+    "Edit Navigation Bar title" : {
+
+    },
+    "Front" : {
+
+    },
+    "Grab a cucumber and limes from Whole Foods" : {
+
+    },
+    "Hello, World!" : {
+
+    },
+    "HoseinKhajeamiriView: I'm %lld years old!" : {
 
     },
     "Name" : {
@@ -32,13 +80,31 @@
         }
       }
     },
+    "Navigation Bar Title" : {
+
+    },
     "Placeholder" : {
+
+    },
+    "Tap to Zoom" : {
+
+    },
+    "Tattoo consultation" : {
 
     },
     "Textfield:" : {
 
     },
     "Toggle" : {
+
+    },
+    "Toggle View" : {
+
+    },
+    "VM1: I'm %lld years old!" : {
+
+    },
+    "VM2: I'm %lld years old!" : {
 
     },
     "X: %lld" : {
