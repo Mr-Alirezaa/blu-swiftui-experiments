@@ -11,7 +11,7 @@ import SwiftUI
 struct BluSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            AngheziView()
+            ScrollViewOffsetView()
         }
     }
 }
